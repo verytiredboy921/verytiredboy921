@@ -83,7 +83,7 @@ than keep a **perfect one** locked on my laptop forever.
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/amaan-khan-717b3361  
+- 🔗 LinkedIn: [Amaan Khan](https://www.linkedin.com/in/amaan-khan-a175b6363/) 
 - 📧 Email: amaankhan3980@gmail.com  
 
 ---

@@ -1,12 +1,13 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:0f2027,100:203a43&height=230&section=header&text=Amaan%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Code.%20Break.%20Fix.%20Ship.&descAlignY=70&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:0f2027,100:203a43&height=230&section=header&text=Amaan%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Code.%20Break.%20Fix.%20Ship.&descAlignY=70&descSize=20" />
 </p>
 
 <br/>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting;Build.+Break.+Fix.+Ship." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting" />
 </p>
 
 <p align="center">
@@ -75,11 +76,11 @@ I’m trying to **become solid with fundamentals**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=verytiredboy921&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verytiredboy921&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -87,7 +88,7 @@ I’m trying to **become solid with fundamentals**.
 ## 👨‍💻 Coding Vibes
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
 </p>
 
 ---
@@ -119,6 +120,8 @@ than keep a **perfect one unfinished**.
   <strong>Still learning. Still building. Still shipping.</strong>
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:203a43,50:0f2027,100:1a1a1a&height=120&section=footer" />
 </p>
+>

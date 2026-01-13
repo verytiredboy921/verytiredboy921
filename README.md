@@ -73,18 +73,6 @@ I’m trying to **become solid with fundamentals**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verytiredboy921&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
 ## 👨‍💻 Coding Vibes
 
 <p align="center">

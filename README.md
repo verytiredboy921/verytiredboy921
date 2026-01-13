@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amaan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:0f2027,100:203a43&height=230&section=header&text=Amaan%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Code.%20Break.%20Fix.%20Ship.&descAlignY=70&descSize=20&animation=fadeIn" />
 </p>
 
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting;Code.+Break.+Fix.+Ship." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting;Build.+Break.+Fix.+Ship." />
 </p>
 
 <p align="center">
@@ -20,15 +21,15 @@ I’m a **BCA student** learning full-stack development the **real way** —
 by building projects, breaking them, fixing them, and shipping them anyway.
 
 I don’t chase perfection.  
-I chase **progress and consistency**.
+I chase **progress, clarity, and consistency**.
 
 - 🚀 Learning full-stack development through real projects  
-- 🔨 Anti–tutorial-hell mindset  
+- 🔨 Strongly anti–tutorial-hell  
 - 🧩 Turning complex problems into simple logic  
 - 📦 I finish what I start  
-- 📈 Every repo shows growth  
+- 📈 Every repository shows growth  
 
-> **Perfection slows learning.  
+> **Perfection delays learning.  
 > Shipping accelerates it.**
 
 ---
@@ -86,7 +87,7 @@ I’m trying to **become solid with fundamentals**.
 ## 👨‍💻 Coding Vibes
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520"/>
 </p>
 
 ---
@@ -94,7 +95,7 @@ I’m trying to **become solid with fundamentals**.
 ## 🎯 Current Focus
 
 - Backend fundamentals  
-- Cleaner, simpler code  
+- Writing cleaner, simpler logic  
 - Real-world project structure  
 - Small tools that solve real problems  
 
@@ -109,8 +110,8 @@ than keep a **perfect one unfinished**.
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/amaan-khan-a175b6363/
-- 📧 Email: amaankhan3980@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/amaan-khan-a175b6363/  
+- 📧 Email: amaankhan3980@gmail.com  
 
 ---
 
@@ -118,8 +119,6 @@ than keep a **perfect one unfinished**.
   <strong>Still learning. Still building. Still shipping.</strong>
 </p>
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:203a43,50:0f2027,100:1a1a1a&height=120&section=footer" />
 </p>
-

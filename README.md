@@ -1,90 +1,125 @@
-# Hi, I’m Amaan Khan 👋  
 
-**Full-Stack Developer in the Making | Learning by Building | Shipping > Perfecting**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amaan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting;Code.+Break.+Fix.+Ship." />
+</p>
+
+<p align="center">
+  <strong>I don’t wait to feel ready. I build, ship, learn, and repeat.</strong>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-I’m a BCA student who believes the fastest way to learn programming is to **build real things**, break them, and rebuild them better.
+I’m a **BCA student** learning full-stack development the **real way** —  
+by building projects, breaking them, fixing them, and shipping them anyway.
 
-- 🧠 Learning full-stack development one project at a time  
-- 🔨 Focused on **practical implementation**, not tutorial hell  
-- 🧩 I enjoy breaking problems into simple logic and turning ideas into working code  
-- 🚢 Strong believer in **progress over perfection**  
-- 📈 Documenting growth publicly — wins, mistakes, and lessons  
+I don’t chase perfection.  
+I chase **progress and consistency**.
 
-> **“Almost done” is a lie. Shipped is real.**
+- 🚀 Learning full-stack development through real projects  
+- 🔨 Anti–tutorial-hell mindset  
+- 🧩 Turning complex problems into simple logic  
+- 📦 I finish what I start  
+- 📈 Every repo shows growth  
+
+> **Perfection slows learning.  
+> Shipping accelerates it.**
+
+---
+
+## 🧩 Developer Mindset
+
+- Readability > cleverness  
+- Finished > flawless  
+- Bugs = feedback  
+- Consistency beats motivation  
+
+I’m not trying to look senior.  
+I’m trying to **become solid with fundamentals**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Templating
+### 🧩 Templating
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-90A93A?style=for-the-badge&label=Learning)
 
-### Tools
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📂 What You’ll Find Here
+## 📊 GitHub Stats
 
-- Beginner-to-intermediate projects with **clean structure**
-- Small ideas executed properly instead of big ideas left unfinished
-- Code written to be **understood**, not just to work
-- Visible improvement from repo to repo  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-If a project exists here, it’s because it’s **completed**, not abandoned.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=verytiredboy921&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👨‍💻 Coding Vibes
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening backend fundamentals  
-- Writing cleaner, more readable code  
-- Building projects that actually solve small problems  
-- Learning how real apps are structured end-to-end  
+- Backend fundamentals  
+- Cleaner, simpler code  
+- Real-world project structure  
+- Small tools that solve real problems  
 
 ---
 
-## 💬 Ask Me About
+## ⚡ Honest Truth
 
-- Programming fundamentals  
-- Project structure & repo organization  
-- Git & GitHub workflow  
-- Learning to code **without burning out**  
-
----
-
-## ⚡ Fun Fact
-
-I’d rather finish and publish a **simple project**  
-than keep a **perfect one** locked on my laptop forever.
+I’d rather ship a **simple working project**  
+than keep a **perfect one unfinished**.
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn: [Amaan Khan](https://www.linkedin.com/in/amaan-khan-a175b6363/) 
-- 📧 Email: amaankhan3980@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/amaan-khan-a175b6363/
+- 📧 Email: amaankhan3980@gmail.com
 
 ---
 
-> **Still learning. Still building. Still showing up.**
+<p align="center">
+  <strong>Still learning. Still building. Still shipping.</strong>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
+

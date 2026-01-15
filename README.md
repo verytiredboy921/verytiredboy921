@@ -1,22 +1,18 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:0f2027,100:203a43&height=230&section=header&text=Amaan%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Code.%20Break.%20Fix.%20Ship.&descAlignY=70&descSize=20" />
-</p>
-
-<br/>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building;Shipping+%3E+Perfecting" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,50:0f2027,100:203a43&height=240&section=header&text=Amaan%20Khan&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Build.%20Ship.%20Learn.%20Repeat.&descAlignY=70&descSize=22" />
 </p>
 
 <p align="center">
-  <strong>I don’t wait to feel ready. I build, ship, learn, and repeat.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+in+the+Making;Learning+by+Building+Real+Projects;Shipping+%3E+Perfection;Progress+Over+Polish" />
+</p>
+
+<p align="center">
+  <strong>I don’t wait for confidence — I earn it by shipping.</strong>
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 I’m a **BCA student** learning full-stack development the **real way** —  
 by building projects, breaking them, fixing them, and shipping them anyway.
@@ -24,14 +20,10 @@ by building projects, breaking them, fixing them, and shipping them anyway.
 I don’t chase perfection.  
 I chase **progress, clarity, and consistency**.
 
-- 🚀 Learning full-stack development through real projects  
-- 🔨 Strongly anti–tutorial-hell  
-- 🧩 Turning complex problems into simple logic  
-- 📦 I finish what I start  
-- 📈 Every repository shows growth  
+Every repository here represents **learning in public**.
 
-> **Perfection delays learning.  
-> Shipping accelerates it.**
+> **I don’t chase being impressive.  
+> I chase being effective.**
 
 ---
 
@@ -41,8 +33,9 @@ I chase **progress, clarity, and consistency**.
 - Finished > flawless  
 - Bugs = feedback  
 - Consistency beats motivation  
+- Small wins compound  
 
-I’m not trying to look senior.  
+I’m not trying to *look* senior.  
 I’m trying to **become solid with fundamentals**.
 
 ---
@@ -62,9 +55,9 @@ I’m trying to **become solid with fundamentals**.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### 🧩 Templating
+### 🧩 Templating Engines
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-90A93A?style=for-the-badge&label=Learning)
+![EJS](https://img.shields.io/badge/EJS-90A93A?style=for-the-badge)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,20 +66,26 @@ I’m trying to **become solid with fundamentals**.
 
 ---
 
-## 👨‍💻 Coding Vibes
+## 👨‍💻 How I Work
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
 </p>
 
+- Build small → then scale  
+- Simple logic over fancy abstractions  
+- Refactor *after* it works  
+- Push code even when it’s not perfect  
+- Learn by doing, not watching  
+
 ---
 
 ## 🎯 Current Focus
 
-- Backend fundamentals  
+- Backend fundamentals (auth, routing, databases)  
 - Writing cleaner, simpler logic  
-- Real-world project structure  
-- Small tools that solve real problems  
+- Proper project structure  
+- Building small tools that solve real problems  
 
 ---
 
@@ -94,6 +93,9 @@ I’m trying to **become solid with fundamentals**.
 
 I’d rather ship a **simple working project**  
 than keep a **perfect one unfinished**.
+
+This GitHub is not a highlight reel.  
+It’s a **growth timeline**.
 
 ---
 
@@ -108,8 +110,6 @@ than keep a **perfect one unfinished**.
   <strong>Still learning. Still building. Still shipping.</strong>
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:203a43,50:0f2027,100:1a1a1a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:203a43,50:0f2027,100:1a1a1a&height=130&section=footer" />
 </p>
-

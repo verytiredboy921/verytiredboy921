@@ -1,95 +1,97 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Amaan%20Khan&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Code.%20Ship.%20Break.%20Improve.%20Repeat.&descAlignY=72&descSize=24&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=sharp&height=360&section=header&color=0:020024,45:1f2937,100:000000&text=Amaan%20Khan&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Build.%20Break.%20Fix.%20Ship.%20Repeat.&descAlignY=72&descSize=26&animation=scaleIn" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+in+the+Making;I+Build+First%2C+Optimize+Later;Strong+Fundamentals+%3E+Hype;Consistency+Creates+Results" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+in+Progress;Strong+Fundamentals+Over+Shortcuts;Learning+by+Shipping+Real+Code;Consistency+Beats+Talent" 
+  />
 </p>
 
 <p align="center">
-  <strong>Builders ship. Talkers stall.</strong>
+  <strong>I don’t polish ideas. I ship systems.</strong>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **BCA student** focused on becoming a **strong full-stack developer** by doing the work that actually matters.
+I’m a **BCA student** focused on becoming a **reliable full-stack developer**  
+by doing the work most people avoid.
 
-- I build projects instead of collecting tutorials  
-- I break things and fix them myself  
-- I ship even when the code isn’t perfect  
-- I learn in public and improve iteratively  
+- I build before I feel ready  
+- I break things to understand them  
+- I refactor for clarity, not ego  
+- I ship even when it’s uncomfortable  
 
-I don’t chase hype or shortcuts.  
-I’m here to build **solid fundamentals** that last.
+This GitHub is not a portfolio of perfection.  
+It’s a **record of real progress**.
 
 ---
 
-## 🧩 Developer Mindset
+## 🧩 Engineering Mindset
 
-- Clear code > clever code  
-- Working > over-engineered  
-- Bugs are feedback  
-- Consistency beats motivation  
-- Simple systems scale better  
+- Readability beats cleverness  
+- Boring code survives longer  
+- If it’s hard to explain, it’s not done  
+- Bugs are information  
+- Finished systems > endless rewrites  
 
 I’m not trying to look senior.  
-I’m trying to **become reliable**.
+I’m building the habits that **make someone senior**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 Languages I Think In
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-203a43?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-020024?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
-### 🎨 Frontend I Build With
-![HTML5](https://img.shields.io/badge/HTML5-2c5364?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1f7ae0?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8)
 
-### ⚙️ Backend I Trust
+### ⚙️ Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-0f9d58?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-020024?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge)
 
-### 🧩 Templating Engines
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-90A93A?style=for-the-badge)
+### 🧩 Templating
+![Jinja](https://img.shields.io/badge/Jinja-7f1d1d?style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-365314?style=for-the-badge)
 
-### 🧰 Tools I Use Daily
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-1f2937?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-020024?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🔨 How I Work
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
-</p>
+1. Start with the smallest working version  
+2. Make it ugly but functional  
+3. Break it intentionally  
+4. Fix what hurts  
+5. Refactor for clarity  
+6. Commit. Push. Repeat.
 
-- Start simple (even ugly)
-- Make it work first
-- Break it to understand it
-- Refactor for clarity
-- Push → review → repeat
-
-I trust **iteration over inspiration**.
+I trust **process over motivation**  
+and **iteration over inspiration**.
 
 ---
 
 ## 🎯 Current Focus
 
-- Backend fundamentals (auth, routing, APIs)
-- Cleaner logic and naming
-- Better project structure
+- Backend fundamentals (auth, APIs, routing)
+- Cleaner logic & naming
+- Better folder structure
 - Small tools that solve real problems
 
-No rush.  
-Just daily progress.
+Slow. Consistent. Compounding.
 
 ---
 
@@ -98,10 +100,11 @@ Just daily progress.
 I’m early.  
 I’m not exceptional *yet*.
 
-But I show up daily, ship consistently,  
-and compound skills instead of chasing shortcuts.
+But I show up daily,  
+ship honestly,  
+and improve deliberately.
 
-That’s the bet I’m making.
+That’s a dangerous combination.
 
 ---
 
@@ -111,5 +114,5 @@ That’s the bet I’m making.
 - 📧 Email: amaankhan3980@gmail.com
 
 <p align="center">
-  <strong>Build. Ship. Improve.</strong>
+  <strong>Build systems. Not excuses.</strong>
 </p>

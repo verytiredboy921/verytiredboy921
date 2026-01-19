@@ -1,8 +1,9 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=sharp&height=360&section=header&color=0:020024,45:1f2937,100:000000&text=Amaan%20Khan&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Build.%20Break.%20Fix.%20Ship.%20Repeat.&descAlignY=72&descSize=26&animation=scaleIn" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header&color=0:020024,45:1f2937,100:000000&text=Consistency%20Beats%20Talent&fontSize=60&fontColor=38BDF8&fontAlignY=45&desc=I%20don’t%20polish%20ideas.%20I%20ship%20systems.&descAlignY=70&descSize=22"
   />
 </p>
+
 
 <p align="center">
   <img 

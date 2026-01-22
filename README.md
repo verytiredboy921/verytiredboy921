@@ -1,8 +1,8 @@
 <p align="center">
-  <img 
+  <img
     src="https://github.com/user-attachments/assets/fba7e63f-b9c0-4943-9ddd-61ee1cf07909"
     alt="Amaan Khan – Developer Banner"
-    width="100%"
+    style="width:100%; max-height:380px; object-fit:cover;"
   />
 </p>
 

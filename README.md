@@ -1,8 +1,11 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header&color=0:020024,45:1f2937,100:000000&text=Consistency%20Beats%20Talent&fontSize=60&fontColor=38BDF8&fontAlignY=45&desc=I%20don’t%20polish%20ideas.%20I%20ship%20systems.&descAlignY=70&descSize=22"
+  <img 
+    src="https://github.com/user-attachments/assets/fba7e63f-b9c0-4943-9ddd-61ee1cf07909"
+    alt="Amaan Khan – Developer Banner"
+    width="100%"
   />
 </p>
+
 
 
 <p align="center">

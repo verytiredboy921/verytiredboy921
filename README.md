@@ -1,21 +1,26 @@
+<!-- ================= BANNER ================= -->
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/fba7e63f-b9c0-4943-9ddd-61ee1cf07909"
     alt="Amaan Khan – Developer Banner"
-    style="width:100%; max-height:380px; object-fit:cover;"
+    style="width:100%; max-height:360px; object-fit:cover;"
   />
 </p>
 
-
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+in+Progress;Strong+Fundamentals+Over+Shortcuts;Learning+by+Shipping+Real+Code;Consistency+Beats+Talent" 
-  />
-</p>
+<!-- ================= INTRO ================= -->
+<h2 align="center">Building skills. Shipping code. Improving daily.</h2>
 
 <p align="center">
   <strong>I don’t polish ideas. I ship systems.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaan-khan-a175b6363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amaankhan3980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,20 +30,20 @@
 I’m a **BCA student** focused on becoming a **reliable full-stack developer**  
 by doing the work most people avoid.
 
-- I build before I feel ready  
-- I break things to understand them  
-- I refactor for clarity, not ego  
-- I ship even when it’s uncomfortable  
+- Build before feeling ready  
+- Break things to understand them  
+- Refactor for clarity, not ego  
+- Ship even when it’s uncomfortable  
 
-This GitHub is not a portfolio of perfection.  
-It’s a **record of real progress**.
+This GitHub is not a highlight reel.  
+It’s a **timeline of real growth**.
 
 ---
 
 ## 🧩 Engineering Mindset
 
-- Readability beats cleverness  
-- Boring code survives longer  
+- Readability > cleverness  
+- Boring solutions scale better  
 - If it’s hard to explain, it’s not done  
 - Bugs are information  
 - Finished systems > endless rewrites  
@@ -50,27 +55,42 @@ I’m building the habits that **make someone senior**.
 
 ## 🛠 Tech Stack
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-020024?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+<table align="center">
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,js" />
+</td>
+</tr>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8)
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</td>
+</tr>
 
-### ⚙️ Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-020024?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge)
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</td>
+</tr>
 
-### 🧩 Templating
-![Jinja](https://img.shields.io/badge/Jinja-7f1d1d?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-365314?style=for-the-badge)
+<tr>
+<td><strong>Templating</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ejs" />
+</td>
+</tr>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-020024?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,10 +101,26 @@ I’m building the habits that **make someone senior**.
 3. Break it intentionally  
 4. Fix what hurts  
 5. Refactor for clarity  
-6. Commit. Push. Repeat.
+6. Commit → Push → Repeat  
 
 I trust **process over motivation**  
 and **iteration over inspiration**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=verytiredboy921&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verytiredboy921&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -92,30 +128,12 @@ and **iteration over inspiration**.
 
 - Backend fundamentals (auth, APIs, routing)
 - Cleaner logic & naming
-- Better folder structure
+- Better project structure
 - Small tools that solve real problems
 
 Slow. Consistent. Compounding.
 
 ---
-
-## ⚡ Reality Check
-
-I’m early.  
-I’m not exceptional *yet*.
-
-But I show up daily,  
-ship honestly,  
-and improve deliberately.
-
-That’s a dangerous combination.
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/amaan-khan-a175b6363/
-- 📧 Email: amaankhan3980@gmail.com
 
 <p align="center">
   <strong>Build systems. Not excuses.</strong>

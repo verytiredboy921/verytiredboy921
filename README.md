@@ -80,7 +80,8 @@ I’m building the habits that **make someone senior**.
 <tr>
 <td><strong>Templating</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=ejs" />
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-90A93A?style=for-the-badge&logoColor=white"/>
 </td>
 </tr>
 
@@ -91,6 +92,7 @@ I’m building the habits that **make someone senior**.
 </td>
 </tr>
 </table>
+
 
 ---
 

@@ -80,7 +80,7 @@ $ focus --now
 
 ---
 
-$ stats --optional
+$ stats --
 
 <p align="center">
   <img

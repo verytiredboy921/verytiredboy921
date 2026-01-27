@@ -2,109 +2,101 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/fba7e63f-b9c0-4943-9ddd-61ee1cf07909"
-    alt="Amaan Khan – Developer Banner"
-    style="width:100%; max-height:340px; object-fit:cover;"
+    alt="Amaan Khan Banner"
+    style="width:100%; max-height:320px; object-fit:cover;"
   />
 </p>
 
-<!-- ================= INTRO ================= -->
-<h2 align="center">Learning by building. Improving by shipping.</h2>
+<h1 align="center">Amaan Khan</h1>
 
 <p align="center">
-  <em>I don’t polish ideas. I ship systems.</em>
+  <code>full-stack developer in progress</code>
+</p>
+
+<p align="center">
+  <strong>ship &gt; polish · clarity &gt; cleverness</strong>
+</p>
+
+---
+
+$ whoami
+
+I’m a **BCA student** learning software the hard way —  
+by building, breaking, fixing, and shipping.
+
+No shortcuts.  
+No pretending.  
+Just progress.
+
+---
+
+$ philosophy
+
+- readable code over smart code  
+- boring solutions scale  
+- bugs are feedback  
+- fundamentals compound  
+- finished beats perfect  
+
+---
+
+$ stack --current
+
+**languages**  
+Python · JavaScript  
+
+**frontend**  
+HTML · CSS  
+
+**backend**  
+Node.js · Express · Flask  
+
+**templating**  
+Jinja · EJS  
+
+**tools**  
+Git · GitHub · VS Code · Bash  
+
+---
+
+$ how_i_work
+
+1. make it work  
+2. make it clear  
+3. make it better  
+4. commit  
+5. repeat  
+
+Consistency > intensity.
+
+---
+
+$ focus --now
+
+- backend fundamentals (auth, APIs, routing)  
+- cleaner logic & naming  
+- better project structure  
+- small tools with real use  
+
+---
+
+$ stats --optional
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+<p align="center">
+  <code>build systems. not excuses.</code>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amaan-khan-a175b6363/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:amaankhan3980@gmail.com">Email</a>
-</p>
-
----
-
-## 🧠 Who I Am
-
-I’m a **BCA student** working toward becoming a **solid full-stack developer**  
-by doing the uncomfortable but necessary work.
-
-I believe progress comes from:
-- building before feeling ready  
-- breaking things to understand them  
-- refactoring for clarity, not ego  
-- shipping consistently  
-
-This GitHub is not a highlight reel.  
-It’s a **record of skill accumulation**.
-
----
-
-## 🧩 How I Think About Code
-
-- Clarity beats cleverness  
-- Boring code is usually better code  
-- If I can’t explain it, I don’t understand it yet  
-- Bugs are feedback, not failure  
-- Finished systems > perfect ideas  
-
-I’m focused on **fundamentals first**, tools second.
-
----
-
-## 🛠 What I Work With
-
-**Languages**  
-`Python` · `JavaScript`
-
-**Frontend**  
-`HTML` · `CSS`
-
-**Backend**  
-`Node.js` · `Express` · `Flask`
-
-**Templating**  
-`Jinja` · `EJS`
-
-**Tools**  
-`Git` · `GitHub` · `VS Code` · `Bash`
-
-I keep my stack small on purpose.  
-Depth matters more than breadth early on.
-
----
-
-## 🔨 How I Build
-
-1. Start with the simplest working version  
-2. Make it functional before pretty  
-3. Break it to see where it fails  
-4. Refactor until it reads clean  
-5. Commit, push, repeat  
-
-Momentum beats motivation.
-
----
-
-## 🎯 What I’m Focusing On Now
-
-- Backend fundamentals (auth, APIs, routing)
-- Cleaner logic and naming
-- Better project structure
-- Small tools that solve real problems
-
-Slow progress.  
-Real progress.
-
----
-
-## 📊 Proof of Work (Secondary)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <strong>Build systems. Not excuses.</strong>
 </p>
 

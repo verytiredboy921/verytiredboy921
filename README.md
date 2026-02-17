@@ -60,5 +60,47 @@ Git · GitHub · VS Code · Bash
 ## $ how_i_work
 
 1. make it work  
-2. make it c
+2. make it clear  
+3. make it better  
+4. commit  
+5. repeat  
+
+Consistency > intensity.
+
+---
+
+## $ focus --now
+
+- backend fundamentals (auth, APIs, routing)  
+- cleaner logic & naming  
+- better project structure  
+- small tools with real use  
+
+---
+
+## $ stats --
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=verytiredboy921&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=verytiredboy921&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+<p align="center">
+  <code>build systems. not excuses.</code>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaan-khan-a175b6363/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:amaankhan3980@gmail.com">Email</a>
+</p>
 

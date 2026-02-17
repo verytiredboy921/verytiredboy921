@@ -1,11 +1,11 @@
-<!-- ================= BANNER ================= -->
+<!-- ================= BANNER ================= --><img width="1536" height="1024" alt="ChatGPT Image Feb 17, 2026, 09_40_44 PM" src="https://github.com/user-attachments/assets/aa880800-bd0c-4985-9b21-2eed6ae7f4ef" />
+
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/fba7e63f-b9c0-4943-9ddd-61ee1cf07909"
-    alt="Amaan Khan Banner"
-    style="width:100%; max-height:320px; object-fit:cover;"
-  />
+  <img src="https://github.com/user-attachments/assets/aa880800-bd0c-4985-9b21-2eed6ae7f4ef" 
+       alt="Amaan Khan Banner" 
+       width="100%" />
 </p>
+
 
 <h1 align="center">Amaan Khan</h1>
 
